@@ -1,7 +1,7 @@
 ### Hi there my name is Hugo but everyone calls me Loureiro.
 
 
-- 🌱 I’m currently learning C# and HTML
+- 🌱 I’m currently learning C#, HTML and JavaScript
 
 
 <div align="center">
